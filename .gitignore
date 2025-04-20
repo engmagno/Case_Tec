@@ -1,0 +1,16 @@
+# Arquivos de ambiente
+.env
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Configurações de IDEs/editors
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+
+# Outros
+*.log
