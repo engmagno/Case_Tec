@@ -14,3 +14,7 @@ __pycache__/
 
 # Outros
 *.log
+
+# O próprio
+.gitignore
+.gitattributes
