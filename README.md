@@ -84,29 +84,28 @@ O modelo inclui:
   <details>
   <summary><strong>Print da tabela `clientes`</strong></summary>
   
-  ![tabela_clientes](https://github.com/user-attachments/assets/8cec334d-e7ed-4100-919c-2f2e4e3cb93a)
+  ![tabela_clientes](https://github.com/user-attachments/assets/e9475205-11b5-445f-b5f9-f27c154d257f)
 
   </details>
   
   <details>
   <summary><strong>Print da tabela `produtos`</strong></summary>
   
-  ![tabela_produtos](https://github.com/user-attachments/assets/1cb84af2-02ee-4ebf-8ff1-e5ba193b92c7)
+  ![tabela_produtos](https://github.com/user-attachments/assets/16ffc091-d3a3-4585-852b-2a0b43ed3b9d)
 
   </details>
   
   <details>
   <summary><strong>Print da tabela `pedidos`</strong></summary>
   
-  ![tabela_pedidos_clientes](https://github.com/user-attachments/assets/1cd00e38-6d2e-4d3c-9d68-b1dcb9b67914)
+  ![tabela_pedidos](https://github.com/user-attachments/assets/527be7ca-5dac-4c68-bf50-2e6a6fbbbea8)
 
-  
   </details>
   
   <details>
   <summary><strong>Print da tabela `itens_pedidos`</strong></summary>
   
-  ![tabela_itens_pedidos](https://github.com/user-attachments/assets/0aa16bda-bcbe-44e3-b6d1-d889a21787b2)
+  ![tabela_itens_pedidos](https://github.com/user-attachments/assets/fbecf3d2-a526-4d97-97e1-4f235507b304)
 
   </details>
 
@@ -223,7 +222,7 @@ O modelo inclui:
   <details>
   <summary><strong>Print da Página Análise RFM</strong></summary>
     
-  ![Análise RFM](https://github.com/user-attachments/assets/9a77a81b-57ef-4481-99e2-15493adb73d0)
+  ![Análise RFM](https://github.com/user-attachments/assets/fd05118a-179b-4f87-a631-8cd6ad079957)
 
   </details>
 </details>
@@ -303,14 +302,14 @@ O modelo inclui:
   <details>
   <summary><strong>Print da Tabela `pedidos_clientes` </strong></summary>
       
-  ![tabela_pedidos_clientes](https://github.com/user-attachments/assets/d128bfdc-3092-4718-9a64-64325d9b8a05)
+  ![tabela_pedidos_clientes](https://github.com/user-attachments/assets/c4791acf-6901-43ae-9791-8f2fadafed98)
 
   </details>
   
   <details>
   <summary><strong>Print da Página de Pedidos Compartilhados </strong></summary>
       
-   ![Análise de Pedidos Compartilhados](https://github.com/user-attachments/assets/3df48609-080d-4a34-bd7c-4b50f75f34d1)
+  ![Análises Compartilhadas](https://github.com/user-attachments/assets/0da95ca0-9ae3-46f2-8deb-00b1ac1cf13d)
 
   </details> 
 </details>
@@ -374,7 +373,7 @@ O modelo inclui:
  <details>
  <summary><strong>Print da Análise dos Top 5 produtos mais Rentáveis (Último ANO)</strong></summary>
   
- ![Análise Top 5](https://github.com/user-attachments/assets/9f3b4f6e-a9c6-43d8-827c-fa437bf93f76)
+ ![Análise Top 5](https://github.com/user-attachments/assets/c22204e3-6f53-4acc-868e-126068854818)
 
  </details>
 </details>
@@ -483,7 +482,7 @@ O modelo inclui:
  <details>
  <summary><strong>Print da Página de Tedência de Vendas Mensais</strong></summary>
 
- ![Análise Tendência](https://github.com/user-attachments/assets/ecc0936e-0aea-4e8b-b4f1-8038e69b3718)
+  ![Análise Tendência](https://github.com/user-attachments/assets/b65a0331-a80c-4dae-b00d-94f17dc4e454)
 
  </details>
 </details>
@@ -589,28 +588,28 @@ O modelo inclui:
  <details>
  <summary><strong>Print da Página de Análise de Clientes Inativos</strong></summary>
 
- ![Análise cliente Distribuição](https://github.com/user-attachments/assets/13d656d8-ba3f-4c55-9d47-84ca882a01e0)
+   ![Análise cliente Distribuição](https://github.com/user-attachments/assets/c8d8773f-cb7e-458a-928e-762508d2fd8b)
 
  </details>
 
  <details>
  <summary><strong>Análise Temporal</strong></summary>
 
- ![Análise cliente Temporal](https://github.com/user-attachments/assets/91c97c10-f72b-4086-9381-d8abd3e86c2a)
+   ![Análise cliente Temporal](https://github.com/user-attachments/assets/582d7ea8-89e4-4a7f-b4cf-b4517e92d62b)
 
  </details>
 
  <details>
  <summary><strong>Análise Geográfica</strong></summary>
 
-  ![Análise cliente Geográfica](https://github.com/user-attachments/assets/b11a0348-2240-4d4e-bec2-fe2bcf461304)
+  ![Análise cliente Geográfica](https://github.com/user-attachments/assets/d335f77d-5656-4070-9e7c-dfe3184198f9)
 
  </details>
 
   <details>
  <summary><strong>Análise Detalhada</strong></summary>
 
-  ![Análise cliente Detalhes](https://github.com/user-attachments/assets/82036bd7-f1e3-4ea2-996f-336bd862a23c)
+  ![Análise cliente Detalhes](https://github.com/user-attachments/assets/a8df93a9-658a-4cc2-bbdc-e327d8e69881)
 
  </details> 
 
@@ -691,7 +690,7 @@ O modelo inclui:
  <details>
  <summary><strong>Print da Página de Análise de Anomalias de Vendas</strong></summary>
     
- ![Análise Anomalias](https://github.com/user-attachments/assets/b00d97fd-0693-4a33-93a7-c917a64136b7)
+ ![Análise Anomalias](https://github.com/user-attachments/assets/81edb322-233b-4597-b938-bf492e40124a)
 
  </details>
 </details>
@@ -748,16 +747,16 @@ O modelo inclui:
   </details>
 
   <details>
-   <summary><strong>Print da SideBar Análises Individuais</strong></summary>
+  <summary><strong>Print da SideBar Análises Individuais</strong></summary>
   
-  ![Análises Individuais](https://github.com/user-attachments/assets/65f545f5-c635-4c2a-a72d-9809ed0acd27)
+  ![Análises Individuais](https://github.com/user-attachments/assets/9fe27c1e-ac43-4905-92bf-3b45df883ffd)
 
   </details>
 
   <details>
    <summary><strong>Print da SideBar Análises Compartilhadas</strong></summary>
   
-  ![Análises Compartilhadas](https://github.com/user-attachments/assets/03a8f8ab-1530-4bf6-ae63-16505c312f63)
+  ![Análises Compartilhadas](https://github.com/user-attachments/assets/2c96827e-d946-46dd-935d-190668a45a26)
 
   </details>
 
