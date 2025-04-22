@@ -4,7 +4,7 @@
 Este repositório contém um case técnico completo para análise de dados em uma empresa do agronegócio que atua na compra, venda e transporte de produtos agrícolas. O sistema foi desenvolvido para fornecer insights estratégicos sobre operações comerciais e comportamento de clientes. Para isso, foram utilizados SQL e Python com streamlit, pandas, matplotlib e Plotly.
 
 ## 2.Objetivos Principais
-- Criar e manejar e Banco de Dados,
+- Criar e manejar o Banco de Dados,
 - Criar uma interface utilizando o Streamlit,
 - Monitorar desempenho de produtos agrícolas,
 - Identificar padrões de compra dos clientes,
