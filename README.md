@@ -18,7 +18,6 @@ O modelo inclui:
 - `pedidos`: Transações comerciais (com status detalhado e forma de pagamento),
 - `pedidos_clientes`: Resultados da alteração de dados para comportar compras com múltiplos clientes,
 - `itens_pedido`: Composição detalhada dos pedidos,
-- `transportes`: Dados logísticos (para implementação futura).
 
 ## 4.Observações Gerais
 - Evidencia-se as tarefas tiveram demandas que, posteriormente, foram otimizadas devido à demanda da **Tarefa 8(Otimização e Indexação**), 
